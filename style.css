@@ -8,3 +8,25 @@
     color: palevioletred;
 }
 
+#search_bar_div{
+    background-color: white;
+}
+
+#search_bar{
+    border-radius: 20px;
+    outline: none;
+    width: 20em;
+    padding: 7px;
+    height: 40px;
+}
+
+#search_bar_icon{
+    display: flex;
+    justify-content: center;
+}
+
+#search_bar_button{
+    width: 7em;
+    padding: 7px;
+    border-radius: 5px;
+}
