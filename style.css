@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    overflow-x: hidden;
+}
+
 #logo{
     font-size: 2em;
     color: palevioletred;
@@ -42,7 +46,7 @@
 }
 
 #api_data p{
-    color: palevioletred;
+    color: white;
 }
 
 #myVideo {
